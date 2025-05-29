@@ -1,7 +1,10 @@
 # TodoApp
 
-# I am experimenting what this looks like
+###Todo App is a simple and efficient app for keeping track of those daily tasks.
 
-## What does this look like
+##This site was deployed with GitHub pages, you can access the it [here](https://juicechamp.github.io/TodoApp/)
 
-### What does this look like?
+##Features
+🞉 HTML
+🞉 CSS
+🞉 Javascript
