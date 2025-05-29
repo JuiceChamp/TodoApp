@@ -4,7 +4,8 @@
 
 ## This site was deployed with GitHub pages, you can access the it [here](https://juicechamp.github.io/TodoApp/)
 
-## Features
-🞉 HTML
-🞉 CSS
-🞉 Javascript
+
+### Features
+### 🞉 HTML
+### 🞉 CSS
+### 🞉 Javascript
