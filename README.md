@@ -9,3 +9,5 @@
 ### 🞉 HTML
 ### 🞉 CSS
 ### 🞉 Javascript
+
+### Shoutout [Coding2Go](https://www.youtube.com/@coding2go) for coming up with this project
